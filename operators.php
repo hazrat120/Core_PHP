@@ -305,6 +305,4 @@ $var = "47.57";
 echo "Typecast function: ";
 echo (int) $var; echo "<br>";
 
-
-
-?>
+?> 
